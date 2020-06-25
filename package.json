@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "API.js",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "canvas": "^2.6.1",
+    "fb": "^2.0.0",
+    "fs": "0.0.1-security",
+    "image-downloader": "^4.0.1",
+    "node-fetch": "^2.6.0",
+    "on-change": "^2.0.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
